@@ -7,9 +7,9 @@
 
 It uses a functional programing style: all functions are pure, there is no data mutation, entities are represented by data structures instead of objects, and lot of functions accept partial application.
 
-#### [Demo](https://danigb.github.io/tonal-app/)
+#### [Demo](https://tonaljs.github.io/tonal-app/)
 
-#### [API documentation](http://danigb.github.io/tonal/)
+#### [API documentation](http://tonaljs.github.io/tonal/)
 
 ## Examples
 
